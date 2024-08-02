@@ -3,14 +3,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923192173398"
-global.ownername = "🐛 MR WASI "
+global.ownernomer = "254722695736"
+global.ownername = "🐛HUNTER "
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
 global.location = "Pakistan, Lahore"
 
-global.ownernumber = '923347748038'  //creator number
-global.ownername = ' MR WASI ' //owner name
+global.ownernumber = '254722695736'  //creator number
+global.ownername = ' HUNTER ' //owner name
 global.botname = 'WASI TECH BUG BOT ' //name of the bot
 
 //sticker details
@@ -22,7 +22,7 @@ global.themeemoji = '🪀'
 global.wm = "WASI TECH"
 
 //theme link
-global.link = 'https://whatsapp.com'
+global.link = 'https://whatsapp.com/channel/0029VafgnsZ60eBkSYLODd1D'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
